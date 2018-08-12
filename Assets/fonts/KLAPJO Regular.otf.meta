@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8880e261d6eea514c9c4704ef385fbd5
+timeCreated: 1534026858
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KLAPJO
+  fontNames:
+  - KLAPJO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
